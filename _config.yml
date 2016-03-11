@@ -1,6 +1,6 @@
 name: OreoandTiger
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.12465
 typography_spectrum: 0.15405
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#592300'
     - '#d22a00'
   brandStrength: 0.708490239456296
-  lightness: 0.03192638512700796
+  lightness: 0.8125
   saturation: 0.737525834934786
-  rhythmicContrast: 0.4639171555172652
+  rhythmicContrast: 0.5
 purpose: []
